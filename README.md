@@ -6,7 +6,7 @@ Some of my favorite technologies are React, Node and I'm currently interested in
 
 Want to know more about me? Check out my LinkedIn profile. 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dev-chuck-smith/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/estiven-cano-urrego-4802261b5)
 
 
 ## &#x1f4c8; Check out my  GitHub Stats
