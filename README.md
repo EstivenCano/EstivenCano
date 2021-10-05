@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-My name is Estiven, and I'm systems engineering student at University of Medellin and Full stack developer that really enjoy learning, taking on challenges, and solving problems.
+My name is Estiven, I am a systems engineering student at the University of Medellín and a web developer who enjoys learning, taking on challenges, and solving problems.
 
-Some of my favorite technologies are React, Node and I'm currently interested in learning about the world of artificial intelligence. 
+My work includes designing and implementing software solutions through agile methodologies such as Scrum, creating visual elements that users interact with and the web services and APIs for client-side functionalities using Frontend technologies like React using Next, always keeping in mind a responsive, and user-friendly design, and Backend technologies like Node using Express to create REST solutions.
 
 Want to know more about me? Check out my LinkedIn profile. 
 
@@ -13,13 +13,8 @@ Want to know more about me? Check out my LinkedIn profile.
 
 <br>
 
-<a href="https://github.com/EstivenCano">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstivenCano&hide=Jupyter%20Notebook,css,HTML&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Estiven's GitHub Language focus" />
-</a>
-
-<a href="https://github.com/EstivenCano">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=EstivenCano&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=F03513&bg_color=1A2B34" alt="Estiven's GitHub Stats" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EstivenCano&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstivenCano&layout=compact&theme=gotham)
 
 <br>
 <br>
