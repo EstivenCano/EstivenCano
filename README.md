@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there 👋  
 
 My name is Estiven, I am a systems engineering student at the University of Medellín and a web developer who enjoys learning, taking on challenges, and solving problems.
 
@@ -6,15 +6,17 @@ My work includes designing and implementing software solutions through agile met
 
 Want to know more about me? Check out my LinkedIn profile. 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/estivencano/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/estivencano/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=estivencano&left_color=grey&right_color=indigo)
 
 
-## &#x1f4c8; Check out my  GitHub Stats
+## &#x1f4c8; Check out my  GitHub Stats  
 
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EstivenCano&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstivenCano&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstivenCano&layout=compact&theme=gotham&exclude_repo=b-metodos-numericos,metodos_numericos,ml_notebooks,fisica,topicos-algoritmos)
+
+
 
 <br>
 <br>
@@ -39,3 +41,4 @@ Want to know more about me? Check out my LinkedIn profile.
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
 </details>
+
