@@ -1,6 +1,6 @@
-### Hey there 👋  
+### Estiven Cano - Software Engineer
 
-My name is Estiven, I am a systems engineering student at the University of Medellín and a web developer who enjoys learning, taking on challenges, and solving problems.
+I simply enjoy learning, taking on challenges and solving problems.
 
 My work includes designing and implementing software solutions through agile methodologies such as Scrum, creating visual elements that users interact with and the web services and APIs for client-side functionalities using Frontend technologies like React using Next, always keeping in mind a responsive, and user-friendly design, and Backend technologies like Node using Express to create REST solutions.
 
@@ -9,7 +9,7 @@ Want to know more about me? Check out my LinkedIn profile.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/estivencano/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=estivencano&left_color=grey&right_color=indigo)
 
 
-## &#x1f4c8; Check out my  GitHub Stats  
+## &#x1f4c8; Check out my GitHub Stats  
 
 <br>
 
