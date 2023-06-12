@@ -8,7 +8,7 @@ In addition to my front-end skills, I have experience in back-end technologies s
 
 Want to know more about me? Check out my LinkedIn profile. 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/estivencano/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=estivencano&left_color=grey&right_color=indigo)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/estivencano/)
 
 
 ## &#x1f4c8; Check out my GitHub Stats  
