@@ -1,10 +1,6 @@
 ### Estiven Cano - Software Engineer
 
-I am a highly motivated Full Stack Developer with a passion for learning and taking on challenges. I thrive on solving complex problems and finding innovative solutions to help clients achieve their goals.
-
-My work involves designing and implementing software solutions using agile methodologies such as Scrum. I am adept at creating visually appealing user interfaces that are both responsive and user-friendly. I specialize in front-end technologies such as React using Next.js, which enables me to build fast and scalable applications.
-
-In addition to my front-end skills, I have experience in back-end technologies such as Node.js using Nest.js to create REST solutions. This allows me to develop robust web services and APIs that are essential for client-side functionalities.
++3 years experience as Software Engineer with a focus on Front-end development, specializing in React, Next.js, and Typescript. Possessing a solid background in Computer Science and strong analytical skills, I excel in problem-solving and software design, delivering high-quality web applications. With a keen emphasis on effective communication and collaboration, I integrate seamlessly into teams to drive project success. Passionate about continuous learning, I stay updated with industry trends to contribute to innovative projects and drive business growth.
 
 Want to know more about me? Check out my LinkedIn profile. 
 
