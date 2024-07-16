@@ -1,6 +1,6 @@
 ### Estiven Cano - Software Engineer
 
-+3 years experience as Software Engineer with a focus on Front-end development, specializing in React, Next.js, and Typescript. Possessing a solid background in Computer Science and strong analytical skills, I excel in problem-solving and software design, delivering high-quality web applications. With a keen emphasis on effective communication and collaboration, I integrate seamlessly into teams to drive project success. Passionate about continuous learning, I stay updated with industry trends to contribute to innovative projects and drive business growth.
+Software Engineer with a focus on Front-end development, specializing in React, Next.js, and Typescript. Possessing a solid background in Computer Science and strong analytical skills, I excel in problem-solving and software design, delivering high-quality web applications. With a keen emphasis on effective communication and collaboration, I integrate seamlessly into teams to drive project success. Passionate about continuous learning, I stay updated with industry trends to contribute to innovative projects and drive business growth.
 
 Want to know more about me? Check out my LinkedIn profile. 
 
