@@ -1,4 +1,4 @@
-Senior Frontend Developer with a passion for crafting clean, efficient, and user-friendly web experiences. 
+Senior Software Engineer with a passion for crafting clean, efficient, and user-friendly web experiences. 
 
 ```Always learning, always building.```
 
